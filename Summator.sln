@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summator", "Summator\Summator.csproj", "{DD791243-63CB-48AC-8F95-5E282C0DEEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summator.Tests", "Summator.Tests\Summator.Tests.csproj", "{80A4E015-58B2-4BBA-8775-49E781E510B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD791243-63CB-48AC-8F95-5E282C0DEEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD791243-63CB-48AC-8F95-5E282C0DEEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD791243-63CB-48AC-8F95-5E282C0DEEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD791243-63CB-48AC-8F95-5E282C0DEEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A4E015-58B2-4BBA-8775-49E781E510B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A4E015-58B2-4BBA-8775-49E781E510B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A4E015-58B2-4BBA-8775-49E781E510B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A4E015-58B2-4BBA-8775-49E781E510B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0B22A4-5376-4CA7-BE6C-5C0D14515944}
+	EndGlobalSection
+EndGlobal
